@@ -1,3 +1,3 @@
 Apos clonar o repositorio
-npm install - instalar dependencias
-npm run dev - rodar localmente
+npm install para instalar dependencias -
+npm run dev para rodar localmente
